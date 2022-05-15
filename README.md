@@ -21,7 +21,7 @@ Key Features;
 - WiFi and Bluetooth Connectivity
 - Environment Sensor (Temperature + Humidity)
 
-**Available to buy on [Tindie](https://www.tindie.com/products/elektrothing/plant-bot/)**
+**Available to buy on [Tindie](https://www.tindie.com/products/elektrothing/plant-bot/).**
 
 ## Use cases
 The example code included in this repository demonstrate a use case and capability of the device.
